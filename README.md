@@ -7,6 +7,10 @@ In Engineering in Medicine and Biology Society (EMBC), 2014 36th Annual Internat
 We show that knn is a robust estimator. We use knn entropy on different scales 
 and provides good classification perf. (with hA(1),  hD(4),  hA(0))
 
+**Required data:**
+
+The fetal heart rate database created at ENS Lyon, 2014
+
 **Required toolbox:** 
 
 Carlos Granero-Belinchon, Stéphane G. Roux, Patrice Abry, Muriel Doret, Nicolas B. Garnier:
