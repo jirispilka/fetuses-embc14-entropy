@@ -12,10 +12,6 @@ The interpretation and analysis of intrapartum fetal heart rate (FHR), enabling 
 
 The fetal heart rate database created at ENS Lyon, 2014
 
-**Required data:**
-
-The fetal heart rate database created at ENS Lyon, 2014
-
 **Required toolbox:** 
 
 Carlos Granero-Belinchon, Stéphane G. Roux, Patrice Abry, Muriel Doret, Nicolas B. Garnier:
