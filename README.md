@@ -16,8 +16,9 @@ The fetal heart rate database created at ENS Lyon, 2014
 
 **Toolbox:** 
 
-Carlos Granero-Belinchon, Stéphane G. Roux, Patrice Abry, Muriel Doret, Nicolas B. Garnier:
+- Carlos Granero-Belinchon, Stéphane G. Roux, Patrice Abry, Muriel Doret, Nicolas B. Garnier:
 Information Theory to Probe Intrapartum Fetal Heart Rate Dynamics. Entropy 19(12): 640 (2017)
+- [C code for sample entropy](https://physionet.org/content/sampen/1.0.0/)
 
 Matlab files:
 
