@@ -6,6 +6,8 @@ The paper aims to illustrate that a k-nearest neighbor procedure yields estimate
 > Nearest-neighbor based wavelet entropy rate measures for intrapartum fetal heart rate variability
 > In Engineering in Medicine and Biology Society (EMBC), 2014 36th Annual International Conference of the IEEE, 2813–2816, IEEE, 2014.
 
+[EMBC 2014, IEEE](https://ieeexplore.ieee.org/document/6944208)
+
 ## Dependencies
 
 **Data:**
